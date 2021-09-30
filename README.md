@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello, My name is Oakley.
+
+I'm 22 with a passion for computers.
